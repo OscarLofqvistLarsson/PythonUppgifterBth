@@ -1,0 +1,2 @@
+def sifferkonvergens(a):
+    return
